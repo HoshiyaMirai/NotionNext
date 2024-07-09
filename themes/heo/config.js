@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '策划设计',
   HEO_HERO_TITLE_2: '与游戏开发',
   HEO_HERO_TITLE_3: 'Hoshiya.games',
-  HEO_HERO_TITLE_4: '最新推荐',
-  HEO_HERO_TITLE_5: '来自鹰酱的笔记&个人拙见',
+  HEO_HERO_TITLE_4: '最新文章',
+  HEO_HERO_TITLE_5: '来自鹰酱的笔记&设计开发分享',
   HEO_HERO_TITLE_LINK: 'Hoshiya.games',
 
   // 英雄区显示三个置顶分类
