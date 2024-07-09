@@ -5,8 +5,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到鹰酱のblog', url: 'https://blog.tangly1024.com' },
-    { title: '这里会不定期分享个人的笔记与开发设计思路', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到鹰酱のblog', url: 'https://www.hoshiya.games/' },
+    { title: '这里会不定期分享个人的笔记与开发设计思路', url: 'https://www.hoshiya.games/' },
+    { title: '食用前可以多刷新几次页面获得最新内容~~~', url: 'https://www.hoshiya.games/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
