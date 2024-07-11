@@ -17,7 +17,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '鹰酱の',
-  HEO_HERO_TITLE_2: '设计与开发分享',
+  HEO_HERO_TITLE_2: '策划分享',
   HEO_HERO_TITLE_3: 'Hoshiya.games',
   HEO_HERO_TITLE_4: '最新推荐',
   HEO_HERO_TITLE_5: '来自鹰酱的笔记&文章',
@@ -37,8 +37,8 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '射击游戏重度玩家',
-    'ARPG爱好者',
-    '经常开发Partygame',
+    '热爱一切射击体验',
+    '私下经常开发Partygame',
     '技术烂烂的战斗策划',
     '梦想成为美少女游戏制作人'
   ],
